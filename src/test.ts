@@ -1,7 +1,7 @@
 import { BMI } from './index';
 import * as assert from 'assert';
 
-const weight = 87;
+const weight = 85;
 const height = 180;
 const bmi = (weight / (height * height)).toFixed(2);
 
